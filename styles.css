@@ -1,0 +1,12 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+h1 {
+    border: solid;
+    font-size: 60pt;
+    color: red;
+    border-color: black;
+    
+}
