@@ -1,12 +1,10 @@
-body {
+#card-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 
-h1 {
-    border: solid;
-    font-size: 60pt;
-    color: red;
-    border-color: black;
-    
+div {
+    font-size: 100pt;
+    color: black;
 }
